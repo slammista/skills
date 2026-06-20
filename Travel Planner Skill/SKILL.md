@@ -25,6 +25,16 @@ Don't run more than one checkpoint per reply. End each one by asking whether to 
 
 **Fast path:** if someone explicitly wants a quick answer ("just give me the basics", "short version"), you can compress Checkpoint 1 to five essential questions and merge 2–3 into one reply. Still ground the prices and dates, and still close with the Executive Report — speed shouldn't come at the cost of accuracy.
 
+## Output Delivery
+
+At the end of every planning session — whether it runs the full four checkpoints or the fast path — write the complete plan to a `.md` file and deliver it to the user in chat using `SendUserFile`. Do not summarize the plan in plain text instead: the file *is* the deliverable.
+
+- Name the file descriptively: `destination-month-year.md` (e.g. `ischia-luglio-2026.md`)
+- Never push travel plans to any remote repository. They contain private personal information (dates, budgets, preferences) and must stay local.
+- If the plan was accidentally pushed earlier in the session, delete it from the repository before sending the file to the user.
+
+---
+
 ## Traveler DNA
 
 Build and update a running profile of the traveler as you learn about them:
