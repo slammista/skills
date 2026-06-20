@@ -354,6 +354,53 @@ Il tour in barca (con skipper) è uno dei momenti migliori: si vedono le calette
 
 ---
 
+---
+
+### Piano Budget Ottimizzato: sotto i 1.000 € per coppia
+
+**Verdetto: sì, è fattibile — ma è il budget minimo realistico per luglio. Richiede 4 mosse specifiche fatte in anticipo.**
+
+#### Breakdown ottimizzato
+
+| Voce | Importo | Come ottimizzare |
+|---|---|---|
+| Treno Roma–Napoli A/R (2 pp) | **€65–80** | Frecciarossa early bird prenotato ora (~€16–20 pp/tratta), oppure Intercity |
+| Traghetto Napoli–Ischia A/R (2 pp) | **€50–55** | Traghetto Caremar (lento ma ~€12 pp), non l'aliscafo |
+| Alloggio 4 notti | **€270–300** | B&B o stanza Airbnb ~€68–75/notte — prenotare subito, luglio si riempie |
+| Auto a noleggio 4 giorni | **€155–175** | Fiat Panda / city car più piccola disponibile, agenzia locale al porto |
+| Benzina + 1 parcheggio S. Angelo | **€35–45** | |
+| Negombo (2 pp) | **€70–80** | Da non tagliare — è il cuore del viaggio |
+| La Mortella (2 pp) | **€25–28** | Tenere: costa poco, vale tanto |
+| Poseidon Terme | **€0** | Tagliare — ci sono già Negombo + Sorgeto gratis |
+| Castello Aragonese (2 pp) | **€0** | Opzionale: vederlo dall'esterno/dal ponte è già bellissimo e gratis |
+| Sea taxi Maronti + Sorgeto | **€25–30** | |
+| Cibo: €50–55/giorno × 4.5 giorni | **€225–248** | Pizzerie, trattorie economiche, rosticcerie, gelato. 1 cena "vera" nel mezzo |
+| Sosta Napoli (pizza + caffè) | **€15–20** | |
+| Varie (acqua, gelato, imprevisti) | **€35–45** | |
+| **TOTALE** | **≈ €970–1.076** | |
+
+**Forcella realistica: €970–1.050.** Stare sotto i €1.000 è possibile se i treni vengono prenotati in anticipo e l'alloggio è trovato a €65–70/notte.
+
+#### Le 4 mosse da fare subito
+
+1. **Prenotare i treni ora** — il Frecciarossa in early bird può costare €16–20 pp invece di €40–50. Differenza A/R per due: fino a €80 risparmiati. Sito: trenitalia.com o italotreno.it
+2. **Trovare l'alloggio entro fine aprile** — in luglio i B&B economici spariscono presto. Target: €65–75/notte. Cercare su Booking.com filtrando per Forio o Lacco Ameno (meno "trendy" di Sant'Angelo = prezzi più bassi)
+3. **Traghetto, non aliscafo** — risparmio €25–35 A/R per coppia, si perde solo 40 minuti
+4. **Tagliare Poseidon** — Negombo + Sorgeto (gratis) coprono già l'esperienza termale. Poseidon è bella ma non indispensabile con questo budget
+
+#### Cosa NON tagliare
+
+- **Negombo**: è il motivo principale del viaggio, non scendere a compromessi
+- **Auto a noleggio**: senza auto si perde troppa autonomia e si spreca tempo prezioso
+- **La Mortella**: €13 pp, vale ogni centesimo
+- **Sosta a Napoli**: non costa nulla di extra (si passa già da lì), aggiunge solo la pizza
+
+#### Margine di sicurezza
+
+Tenere **€50–80 di riserva** per imprevisti (parcheggi inattesi, taxi, qualcosa che si rompe, una cena migliore del previsto). Se il budget è €1.000 esatti senza margine, è un po' stretto — meglio pianificare per €950 e lasciare un buffer.
+
+---
+
 ## Voci Nascoste (Hidden Costs)
 
 - **Tassa di soggiorno:** Ischia applica una tassa di soggiorno comunale. Stima: €1–3 pp/notte (≈ €8–24 per coppia per 4 notti). Pagata direttamente all'hotel.
